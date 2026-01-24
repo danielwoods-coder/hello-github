@@ -6,3 +6,5 @@
 - Markdown
 - GitHub 基本操作
 - 前端基本技巧
+- JavaScript
+- 前端框架
